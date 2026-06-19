@@ -1,27 +1,32 @@
-# Healthcare Prediction System
+# Heart Disease Prediction System
 
-A Machine Learning and FastAPI-based Healthcare Prediction System that predicts patient health risk using medical and lifestyle information.
+An AI-powered Heart Disease Prediction System built using Machine Learning, XGBoost, and Streamlit. The application predicts the likelihood of heart disease based on patient health parameters and provides real-time risk assessment.
 
 ## Features
 
+- Heart Disease Risk Prediction
+- XGBoost Machine Learning Model
+- Interactive Streamlit Dashboard
+- Risk Percentage Calculation
+- Patient Health Summary
+- Downloadable Prediction Report
 - Data Analysis & Visualization
-- Feature Engineering
-- Multiple ML Models
-- CatBoost & XGBoost Integration
-- Hyperparameter Tuning
-- Ensemble Learning
-- Risk Probability Prediction
-- FastAPI REST API
-- Model Deployment Ready
+- Feature Engineering Pipeline
 
-## Dataset
+## Dataset Features
 
-- Records: 9,549
-- Features: 23+
-- Target: Health Risk Prediction
+- Age
+- Sex
+- ChestPainType
+- RestingBP
+- Cholesterol
+- FastingBS
+- RestingECG
+- MaxHR
+- ExerciseAngina
+- Oldpeak
+- ST_Slope
 
-## Model Output
+## License
 
-- Prediction (0 = Low Risk, 1 = High Risk)
-- Risk Probability (%)
-- Risk Level (Low / Moderate / High)
+This project is for educational and portfolio purposes.
