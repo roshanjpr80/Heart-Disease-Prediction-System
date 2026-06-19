@@ -1,0 +1,11 @@
+Age,Sex,ChestPainType,RestingBP,Cholesterol,FastingBS,RestingECG,MaxHR,ExerciseAngina,Oldpeak,ST_Slope,Prediction,Risk_Probability,Risk_Level
+40,M,ATA,140,289,0,Normal,172,N,0.0,Up,0,2.0213914,Low
+49,F,NAP,160,180,0,Normal,156,N,1.0,Flat,0,16.162668,Low
+37,M,ATA,130,283,0,ST,98,N,0.0,Up,0,1.2802935,Low
+48,F,ASY,138,214,0,Normal,108,Y,1.5,Flat,1,93.35294,High
+54,M,NAP,150,195,0,Normal,122,N,0.0,Up,0,2.6099365,Low
+39,M,NAP,120,339,0,Normal,170,N,0.0,Up,0,2.5350645,Low
+45,F,ATA,130,237,0,Normal,170,N,0.0,Up,0,0.30439356,Low
+54,M,ATA,110,208,0,Normal,142,N,0.0,Up,0,0.71997947,Low
+37,M,ASY,140,207,0,Normal,130,Y,1.5,Flat,1,96.802765,High
+48,F,ATA,120,284,0,Normal,120,N,0.0,Up,0,0.2637306,Low
